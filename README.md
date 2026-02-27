@@ -53,8 +53,7 @@
 
 <p align="left">
 
-  <a href="https://www.instagram.com/onlyy.appy_23?igsh=NzNmcjc1NTR5cjhq">
+  <a href="https://www.instagram.com/onlyy.appy_23/">
 
     <img src="./icons8-instagram.svg" width="40"/>
-
-  </a>
+</a>
