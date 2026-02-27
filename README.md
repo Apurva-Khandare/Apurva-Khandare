@@ -48,3 +48,13 @@
 
 
 ---
+
+## Let's Connect 🌐
+
+<p align="left">
+
+  <a href="https://www.instagram.com/onlyy.appy_23?igsh=NzNmcjc1NTR5cjhq">
+
+    <img src="./icons8-instagram.svg" width="40"/>
+
+  </a>
