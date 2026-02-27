@@ -71,5 +71,7 @@
 
 ---
 
+## Personal Motto ⭐
 
+"small steps every day."
 
