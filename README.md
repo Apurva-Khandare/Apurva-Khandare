@@ -30,7 +30,7 @@
 -   1-10std: ADV.Bapushaeb Bhonde High School lonavla 410-401
 -   11-12std: Don Bosco jr college of Arts and science Tungarli 401-401
 -   Graduaction: Pratibha college of Computer studies Chinchwad 411-033
--   Currently studying 3 year.
+-   Currently studying in 3 year.
 
 ---
 
@@ -42,3 +42,8 @@
 
 ---
 
+## GitHub Stats 📈
+
+[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=Apurva-Khandare)](https://git.io/streak-stats))
+
+---
