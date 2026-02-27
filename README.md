@@ -63,6 +63,12 @@
 <a href="https://github.com/Apurva-Khandare">Apurva-Khandare
 </a>
 
+<a href="mailto:apurvakhandare23@gmail.com">apurvakhandare23@gmail.com
+</a>
+
+<a href="tel:+917559253019">7559253019
+</a>
+
 ---
 
 
