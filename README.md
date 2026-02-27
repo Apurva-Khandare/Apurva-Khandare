@@ -66,7 +66,7 @@
 <a href="mailto:apurvakhandare23@gmail.com">apurvakhandare23@gmail.com
 </a>
 
-<a href="tel:+917559253019">7559253019
+<a href="tel:+91 7559253019"> +91 7559253019
 </a>
 
 ---
