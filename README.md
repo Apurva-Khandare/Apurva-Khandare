@@ -11,3 +11,14 @@
   <b>completed HTML | c programming | c++ | CSS</b>
 
 </p>
+
+
+---
+
+## About Me💁‍♀️
+
+```Name: Apurva Khandare
+   Address: Lonavla 410-401
+   Role: currently pursuing BSC computer science degree (TY)
+   Age:20```
+
