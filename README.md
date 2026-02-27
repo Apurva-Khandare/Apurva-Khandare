@@ -44,6 +44,7 @@
 
 ## GitHub Stats 📈
 
-([![GitHub Streak](https://streak-stats.demolab.com?user=Apurva-Khandare)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Apurva-Khandare)](https://git.io/streak-stats)
+
 
 ---
