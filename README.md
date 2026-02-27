@@ -22,3 +22,17 @@
 -   Role: currently pursuing BSC computer science degree (TY)
 -   Age:20
 
+---
+
+
+## About my education🏫
+
+-   1-10std: ADV.Bapushaeb Bhonde High School lonavla 410-401
+-   11-12std: Don Bosco jr college of Arts and science Tungarli 401-401
+-   Graduaction: Pratibha college of Computer studies Chinchwad 411-033
+-   Currently studying 3 year.
+
+---
+
+
+
